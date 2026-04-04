@@ -28,7 +28,3 @@ This project uses Generative AI and Prompt Engineering to create an educational 
 ## How It Works
 The system uses a system prompt that instructs the AI to behave like a tutor. Instead of giving direct answers, the AI asks guiding questions and provides hints so that the student can solve the problem on their own.
 
----
-
-## How to Run
-1. Install required libraries:
